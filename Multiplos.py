@@ -1,7 +1,8 @@
 # Calcula múltiplos de un número
 # Autor: Rafa Sánchez
 # Fecha: 05/03/2021
-# Versión: 1.4
+# Versión: 1.0
+# Git
 
 
 numero = int(input("Dame un número: "))
